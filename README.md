@@ -15,7 +15,7 @@ I am a highly driven **Full Stack Software Engineer** specializing in building c
 | Area | Focus | Key Technologies |
 | :--- | :--- | :--- |
 | **Native Mobile** | Creating modern, intuitive cross-platform UIs. | **Jetpack Compose** (Android) and **SwiftUI** (iOS). |
-| **Full Stack** | Architecting and implementing end-to-end solutions. | Node.js. |
+| **Full Stack** | Architecting and implementing end-to-end solutions. | Node.js, React, Javascript, Typescript |
 | **Problem Solving** | Analytical approach to complex technical challenges. | **4th-place finish** in an intra-university programming contest. |
 | **Mentorship** | Sharing knowledge and reinforcing core programming principles. | **Java** and **C Programming Trainer** at **Skill Develop**. |
 

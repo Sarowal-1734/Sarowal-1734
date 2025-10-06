@@ -1,6 +1,6 @@
 <div align="center">
   <img src="[YOUR_IMAGE_URL]" alt="Profile Image" width="180" style="border-radius: 50%;"> 
-  <h1>👋 Hi, I'm [Your Name]!</h1>
+  <h1>👋 Hi, I'm Sarowal!</h1>
   <h3>Full Stack Software Engineer | Native Mobile & Scalability Specialist</h3>
 </div>
 

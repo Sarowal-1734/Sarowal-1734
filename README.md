@@ -15,7 +15,7 @@ I am a highly driven **Full Stack Software Engineer** specializing in building c
 | Area | Focus | Key Technologies |
 | :--- | :--- | :--- |
 | **Native Mobile** | Creating modern, intuitive cross-platform UIs. | **Jetpack Compose** (Android) and **SwiftUI** (iOS). |
-| **Full Stack** | Architecting and implementing end-to-end solutions. | [Add your main Back-end Language/Framework, e.g., Node.js/Express, Python/Django, Spring Boot]. |
+| **Full Stack** | Architecting and implementing end-to-end solutions. | Node.js. |
 | **Problem Solving** | Analytical approach to complex technical challenges. | **4th-place finish** in an intra-university programming contest. |
 | **Mentorship** | Sharing knowledge and reinforcing core programming principles. | **Java** and **C Programming Trainer** at **Skill Develop**. |
 
@@ -25,15 +25,15 @@ I am a highly driven **Full Stack Software Engineer** specializing in building c
 
 I thrive on bridging the gap between front-end user experience and back-end efficiency.
 
-**Languages:** Java, C, Kotlin, Swift, [Add your Full Stack Language, e.g., JavaScript/TypeScript]
+**Languages:** Java, C, Kotlin, Swift, JavaScript, TypeScript
 
 **Frameworks & Libraries:**
 * **Mobile:** Jetpack Compose, SwiftUI
-* **Web/Backend:** [Add your Full Stack Frameworks, e.g., React, Node.js, Spring Boot]
+* **Web/Backend:** React, Node.js, Spring Boot
 
 **Databases & DevOps:**
-* [Add your Databases, e.g., PostgreSQL, MongoDB, Redis]
-* Git, Docker, [Add any cloud services like AWS, Azure, or CI/CD tools]
+* Firebase, PostgreSQL, Redis
+* Git, Docker, AWS, Xcode Cloude, GitHub CI/CD
 
 ---
 

@@ -40,8 +40,8 @@ I thrive on bridging the gap between front-end user experience and back-end effi
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=[Sarowal-1734]&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Sarowal-1734]&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
@@ -50,8 +50,8 @@ I thrive on bridging the gap between front-end user experience and back-end effi
 
 I'm always open to discussing new projects, collaboration opportunities, or technical challenges!
 
-* **LinkedIn:** [Link to your LinkedIn Profile]
-* **Portfolio/Website:** [Link to your personal website, if you have one]
-* **Email:** [Your professional email address]
+* **LinkedIn:** https://www.linkedin.com/in/md-sarowal-40b194228
+* **Portfolio/Website:** https://www.facebook.com/sarowal1734
+* **Email:** sarowal.cse@gmail.com
 
 <p align="center">Made with ❤️ and clean code.</p>
